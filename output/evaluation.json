@@ -1,0 +1,36 @@
+{
+    "summary": {
+        "footwork": 1.0,
+        "head_position": 9.0,
+        "swing_control": 8.7,
+        "balance": 1.0,
+        "follow_through": 4.9
+    },
+    "smoothness": {
+        "elbow_smoothness_std": 25.6,
+        "spine_smoothness_std": 0.81,
+        "feedback": "Smoothness is key to power and control A lower standard deviation indicates a more fluid motion"
+    },
+    "feedback": {
+        "footwork": [
+            "Needs Work footwork Average angle was 156.7 degrees",
+            "Focus on planting your front foot at a zero-degree angle to the crease"
+        ],
+        "head_position": [
+            "Excellent head position Average offset was 30.4 pixels",
+            "Try to keep your head perfectly still and stacked over your front knee"
+        ],
+        "swing_control": [
+            "Excellent swing control Average elbow angle was 94.4 degrees",
+            "Work on maintaining your V shape with the front elbow throughout the shot"
+        ],
+        "balance": [
+            "Needs Work balance Average spine lean was 161.1 degrees",
+            "Keep your back as straight as possible to avoid losing balance and power"
+        ],
+        "follow_through": [
+            "Fair follow-through A strong follow-through is key to power",
+            "Let your body momentum carry the bat through after impact for a clean finish"
+        ]
+    }
+}
